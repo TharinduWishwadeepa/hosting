@@ -13,14 +13,6 @@
     --black1:#222;
     --black2:#999;
 }
-body{
-    min-height:100vh;
-    overflow-x:hidden;
-    justify-content: center;
-    align-items: center;
-  padding: 10px;
-  background: #fff;
-}
 
 .container{
     position:relative;
